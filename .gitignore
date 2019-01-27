@@ -1,3 +1,4 @@
 .ipynb_*
 **/desktop.ini
 res/Proper/
+*.weights

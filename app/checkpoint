@@ -1,2 +1,2 @@
-model_checkpoint_path: "E:\\Programming\\Python\\Cactusifier\\app\\cactusifier-0.001-2conv-basic-treshold_15-10conv2filter.model"
-all_model_checkpoint_paths: "E:\\Programming\\Python\\Cactusifier\\app\\cactusifier-0.001-2conv-basic-treshold_15-10conv2filter.model"
+model_checkpoint_path: "E:\\Programming\\Python\\Cactusifier\\app\\cactusifier-0.001-2conv-basic-treshold_20-16conv2filter2size-notaugmented-15tr-byte-002.model"
+all_model_checkpoint_paths: "E:\\Programming\\Python\\Cactusifier\\app\\cactusifier-0.001-2conv-basic-treshold_20-16conv2filter2size-notaugmented-15tr-byte-002.model"
